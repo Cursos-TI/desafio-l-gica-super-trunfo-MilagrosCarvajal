@@ -103,6 +103,7 @@ int main() {
       printf("Resultado: A carta 2 venceu!\n");
     }
     
+    
 
     return 0;
 }  
